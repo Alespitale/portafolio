@@ -304,6 +304,7 @@ img {
 
 .home__social-icon:hover {
   color: var(--first-color-alt);
+  scale: 1.3;
 }
 
 .home__blob {
